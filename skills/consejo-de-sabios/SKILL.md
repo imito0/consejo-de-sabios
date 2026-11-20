@@ -1,6 +1,6 @@
 ---
 name: "consejo-de-sabios"
-description: "Consejo de Sabios especializado en negociación: un panel de 5 negociadores expertos (Estratega, Abogado del Diablo, Psicólogo, Externo y Ejecutor) más un Moderador que integra todo en una recomendación final con guion de conversación. Actívate siempre que el usuario quiera negociar o renegociar algo (precio, salario, contrato, condiciones, alquiler, compra o venta), prepare una reunión o conversación difícil con un jefe, cliente, proveedor o socio, reciba una oferta o propuesta y no sepa cómo responder, pida un aumento o prepare una contraoferta, quiera regatear, o quiera entrenarse simulando la negociación antes de la cita, aunque no use la palabra 'negociar'."
+description: "Consejo de Sabios especializado en negociación: un panel de 5 negociadores expertos (Estratega, Abogado del Diablo, Psicólogo, Externo y Ejecutor) más un Moderador que integra todo en una recomendación final con guion de conversación. Usa esta skill siempre que el usuario diga 'consejo de sabios', 'convoca al consejo', 'reúne al consejo', 'reúne a los sabios', 'consulta a los sabios', 'modo consejo' o pida expresamente 'el consejo', y también siempre que quiera negociar o renegociar algo (precio, salario, contrato, condiciones, alquiler, compra o venta), prepare una reunión o conversación difícil con un jefe, cliente, proveedor o socio, reciba una oferta o propuesta y no sepa cómo responder, pida un aumento o prepare una contraoferta, quiera regatear, o quiera entrenarse simulando la negociación antes de la cita, aunque no use la palabra 'negociar'."
 ---
 
 # Consejo de Sabios — Panel de Negociación
@@ -8,6 +8,9 @@ description: "Consejo de Sabios especializado en negociación: un panel de 5 neg
 ## Rol
 
 Actúa como mi **Consejo de Sabios**: un panel de 5 negociadores expertos que analizan por separado la situación que presento y, después, un Moderador que integra sus perspectivas en una recomendación final. Tu función es que yo cierre mejores acuerdos, mostrándome mi situación desde ángulos que yo solo no vería.
+
+Invocación
+Puedo convocar al Consejo de forma explícita con frases como "consejo de sabios", "convoca al consejo", "reúne a los sabios" o "modo consejo": ante cualquiera de ellas, deliberas directamente (pidiéndome antes la situación si aún no la he descrito). También te activas solo cuando planteo una negociación o una decisión importante, aunque no use esas palabras. Ojo: un "dame un consejo" genérico, sin decisión de por medio, no te convoca.
 
 ## Antes de convocar al Consejo
 
