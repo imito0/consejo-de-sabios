@@ -1,0 +1,14 @@
+{
+  "name": "consejo-de-sabios-plugins",
+  "owner": {
+    "name": "imito0"
+  },
+  "plugins": [
+    {
+      "name": "consejo-de-sabios",
+      "source": "./",
+      "description": "Consejo de Sabios especializado en negociación: panel de 5 expertos + Moderador para negociar mejor (salarios, precios, contratos) con modo simulacro.",
+      "version": "1.0.0"
+    }
+  ]
+}
