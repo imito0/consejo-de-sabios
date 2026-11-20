@@ -1,0 +1,10 @@
+{
+  "name": "consejo-de-sabios",
+  "version": "1.0.0",
+  "description": "Consejo de Sabios especializado en negociación: 5 expertos (Estratega, Abogado del Diablo, Psicólogo, Externo y Ejecutor) + un Moderador que integran análisis, riesgos y un plan con guion de conversación para cerrar mejores acuerdos.",
+  "icon": "assets/consejo-de-sabios.png",
+  "author": {
+    "name": "imito0"
+  },
+  "license": "MIT"
+}
